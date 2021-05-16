@@ -1,0 +1,30 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Problem Background}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Restatement of the Problem}{3}{}%
+\contentsline {subsection}{\numberline {1.3}Our work}{3}{}%
+\contentsline {section}{\numberline {2}Preparation of the Models}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Assumptions}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Notations}{5}{}%
+\contentsline {section}{\numberline {3}Collection of Data}{5}{}%
+\contentsline {section}{\numberline {4}Model \uppercase {i}: Short-term Single-species Decomposition Model}{6}{}%
+\contentsline {subsection}{\numberline {4.1}Explanation of Parameters in the Model}{6}{}%
+\contentsline {subsection}{\numberline {4.2}Model Construction Using Differential Equations}{6}{}%
+\contentsline {subsection}{\numberline {4.3}Results and Analysis}{7}{}%
+\contentsline {subsection}{\numberline {4.4}Extension: Short-term Multi-species Decomposition Model}{8}{}%
+\contentsline {section}{\numberline {5}Model \uppercase {ii}: Interactions between Multi-species Model}{9}{}%
+\contentsline {subsection}{\numberline {5.1}Patch Matrices and Markov Process Analysis by Werner Ulrich}{9}{}%
+\contentsline {subsection}{\numberline {5.2}Calculation Results and Analysis with 4 Examples}{10}{}%
+\contentsline {subsection}{\numberline {5.3}Extension: Environmentally Conditioned Multi-species Model}{11}{}%
+\contentsline {section}{\numberline {6}Algorithm Realization Using Cellular Automation}{14}{}%
+\contentsline {subsection}{\numberline {6.1}Overview of the Algorithm}{15}{}%
+\contentsline {subsection}{\numberline {6.2}Data processing and Analysis for WRM}{15}{}%
+\contentsline {subsection}{\numberline {6.3}Illustration of the Logic}{16}{}%
+\contentsline {subsection}{\numberline {6.4}Visualized Results}{18}{}%
+\contentsline {section}{\numberline {7}Sensitive Analysis}{19}{}%
+\contentsline {section}{\numberline {8}Strengths and Weaknesses}{20}{}%
+\contentsline {subsection}{\numberline {8.1}Strengths}{20}{}%
+\contentsline {subsection}{\numberline {8.2}Weaknesses}{20}{}%
+\contentsline {section}{\numberline {9}Conclusion}{20}{}%
+\contentsline {section}{Memo}{22}{}%
+\contentsline {section}{References}{23}{}%
+\contentsline {section}{Appendices}{24}{}%
